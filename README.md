@@ -10,6 +10,8 @@ This is a fictional company for a joke pitch competition at the Starship Venture
 
 ## Start here
 
+- **[Open the eight-slide PDF](deck/low-orbit-high-status.pdf)**
+- **[Download the editable PowerPoint with speaker notes](deck/low-orbit-high-status.pptx)**
 - [The brief and Patrick's original ideas](BRIEF.md)
 - [Proposed three-person, one-hour sprint](TEAM-PLAN.md)
 - [Joke bank: candidates, not approved copy](JOKES.md)
@@ -23,3 +25,11 @@ This repo is intended to be public so the team can open it immediately. Public a
 Claim a lane in TEAM-PLAN.md. Keep story work in STORY.md, joke suggestions in JOKES.md, and eventual visuals in assets/. Put exported slides in deck/. Avoid simultaneously editing the same file.
 
 **Nothing creative is locked yet:** title, roles, jokes, slide order, and art direction are proposals for the three-person team.
+
+## Deck status
+
+The starter deck is ready in PDF and editable PowerPoint. The PowerPoint includes suggested dialogue and handoffs in speaker notes. The Will slide is currently typography; the superhero concept remains in the joke bank for team review.
+
+**Team format: PDF.** Patrick chose PDF to keep the sprint moving. Use the PDF to review and present, and the editable PowerPoint for revisions. There is no Google Slides document to keep in sync.
+
+Public GitHub readers can download the deck immediately. Add teammates as repository collaborators if they need to edit directly, or use forks and pull requests.
