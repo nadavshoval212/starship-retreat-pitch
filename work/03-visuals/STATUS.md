@@ -1,6 +1,6 @@
 # Name, logo, and deck status
 
-- Human owner: unclaimed
+- Human owner: Nadav Shoval
 - State: ready for first run
 - Current deliverable: none
 - Human-selected name/logo: none

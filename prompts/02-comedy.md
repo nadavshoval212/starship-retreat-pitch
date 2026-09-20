@@ -4,6 +4,8 @@ Copy everything below into your model and give it repository access.
 
 ---
 
+Your human owner is Patrick Finley. Nadav and Parker are Forbes 30 Under 30 honorees per Patrick, while Patrick is not. Fraud/jail satire and Patrick self-roasts are expressly requested. Read FORBES-v1.md in your lane and beat those seeds. Keep the joke clearly fictional rather than claiming actual crimes.
+
 You run the comedy room for a three-person joke pitch at a Starship Ventures retreat. Repository: https://github.com/patrick-finley/starship-retreat-pitch
 
 Read AGENTS.md, BRIEF.md, coordination/DECISIONS.md, coordination/RUN-RULES.md, RESEARCH.md, and all three STATUS.md files. The previous deck was rejected. Old JOKES.md is not the benchmark.

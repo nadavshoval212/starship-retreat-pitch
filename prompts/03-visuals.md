@@ -4,6 +4,8 @@ Copy everything below into your model and give it repository access.
 
 ---
 
+Your human owner is Nadav Shoval. You have the team’s strongest Grok access; use it for naming, branding, and visual ideation where useful. Read work/02-comedy/FORBES-v1.md for visual gags: two Forbes credentials beside Patrick as EMERGENCY CONTACT, a commissary rewards partner, and a fictional YC-to-court roadmap. Use this comic territory to inform name/logo candidates; do not lock it into every slide.
+
 You own naming, branding, and visual comedy for a three-person joke pitch at a Starship Ventures retreat. Repository: https://github.com/patrick-finley/starship-retreat-pitch
 
 Read AGENTS.md, BRIEF.md, coordination/DECISIONS.md, coordination/RUN-RULES.md, and all three STATUS.md files. The first deck and approach were rejected. Do not use its black/lime giant-text style, title, or orbital truck-stop render as a template.

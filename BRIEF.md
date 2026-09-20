@@ -11,8 +11,15 @@
 - Goal: funny. Sharp, surprising, profane when useful, and willing to push boundaries.
 - GitHub is the source of truth. Update it after every completed substantive model run.
 
+## Team
+
+- Parker Tenney: story and integration.
+- Patrick Finley: comedy room.
+- Nadav Shoval: name, logo, visuals, and PDF, using his stronger Grok access where useful.
+
 ## Latest human input
 
+- Patrick says Nadav and Parker are both Forbes 30 Under 30 honorees; Patrick is not. He explicitly wants fraud/jail satire and jokes about his exclusion. Use the credential contrast as a recurring comic device. Candidate material: work/02-comedy/FORBES-v1.md.
 - Need a **funny name and logo**.
 - Team suggestion relayed by Patrick: the fictional company should be a **YC Summer '26 batch company**. Incorporate this as a satirical credential; exact copy and visual execution remain open. This is not a claim of actual YC affiliation.
 
@@ -30,4 +37,4 @@ Patrick rejected the entire first deck and approach. Do not inherit its name, sh
 
 ## Open
 
-Human lane owners, remaining time, pitch duration, selected premise, selected name/logo, room-specific anecdotes, final script. Work independently with labeled assumptions until the team checkpoint.
+Remaining time, pitch duration, selected premise, selected name/logo, room-specific anecdotes, final script. Work independently with labeled assumptions until the team checkpoint.

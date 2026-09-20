@@ -1,5 +1,7 @@
 # Instructions for models in this repository
 
+Start with START-HERE.md. Route by the named human: Parker Tenney = story; Patrick Finley = comedy; Nadav Shoval = brand/deck. First names suffice. These explicit assignments supersede earlier proposals. Do not ask the user to select a lane once their name is known.
+
 Read README.md, BRIEF.md, coordination/DECISIONS.md, coordination/RUN-RULES.md, your lane prompt, and all three STATUS.md files before work.
 
 The first creative direction was explicitly rejected. Old deck files, STORY.md, and JOKES.md are history, not templates.

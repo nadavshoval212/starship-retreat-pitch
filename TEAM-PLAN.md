@@ -2,9 +2,9 @@
 
 | Lane | First run: about 10 minutes | After team selection |
 | --- | --- | --- |
-| 1. Premise + story | Three genuinely different company premises, each with a spoken opening and loyalty reveal | Beat sheet, slide words, three-speaker script, human decision log |
-| 2. Comedy room | 12 strong candidates: situations, people-in-room lines, YC credential bits, visual/performance jokes | Exact punch-ups to selected story, cuts, callbacks, judge Q&A |
-| 3. Name + logo + deck | Eight name candidates, strongest three with taglines, two rough logo treatments | Chosen brand, funny visual artifacts, integrated PDF and editable source |
+| Parker: premise + story | Three genuinely different company premises, each with a spoken opening and loyalty reveal | Beat sheet, slide words, three-speaker script, human decision log |
+| Patrick: comedy room | 12 strong candidates: situations, people-in-room lines, YC and Forbes/fraud/jail bits, visual/performance jokes | Exact punch-ups to selected story, cuts, callbacks, judge Q&A |
+| Nadav / Grok: name + logo + deck | Eight name candidates, strongest three with taglines, two rough logo treatments | Chosen brand, funny visual artifacts, integrated PDF and editable source |
 
 ## Checkpoint 1
 
