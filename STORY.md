@@ -1,3 +1,5 @@
+> REJECTED FIRST PASS. Retained as history only. New story work belongs in work/01-story/.
+
 # Proposed pitch arc — not locked
 
 Working title: **LOW ORBIT, HIGH STATUS**

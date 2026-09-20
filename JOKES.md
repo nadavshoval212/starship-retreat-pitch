@@ -1,3 +1,5 @@
+> REJECTED FIRST PASS. Retained as history only. New comedy work belongs in work/02-comedy/.
+
 # Joke bank — team review
 
 All lines below are fictional pitch copy. Pick a few; don't turn the deck into a wall of punchlines.

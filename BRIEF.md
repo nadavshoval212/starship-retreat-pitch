@@ -1,21 +1,33 @@
-# Competition brief
+# The actual brief
 
-- Team: Patrick + two teammates; names and GitHub usernames to be added.
-- Audience: founders, LPs, advisors, and other Starship Ventures retreat attendees.
-- Format: blind pitch competition; roughly one hour to make a deck and prepare a pitch. Judges will treat it semi-seriously.
-- Assigned prompt: **orbital data centers for truck stops as an airline loyalty program that is secretly the whole business.**
-- Goal: be very funny. Convincing investor-deck delivery, increasingly indefensible business logic, a strong reveal, and jokes about the room.
-- Tone: willing to be profane, absurd, and sharp. Start with bold candidates; the team chooses what survives.
-- Unknown: pitch duration, slide limit, precise judging criteria, and other attendees' identities. Suggested story assumes a 3–5 minute pitch until confirmed.
+## Fixed requirements
 
-## Patrick's seed ideas — pending teammates' opinions
+- Three humans, three computers, three model sessions at a Starship Ventures retreat.
+- Audience: founders, LPs, advisors, and other retreat attendees.
+- Blind pitch competition. Judges treat it semi-seriously; the company is supposed to be stupid.
+- Roughly one hour was available at the outset. Confirm remaining time locally rather than assuming a fresh hour.
+- Prompt: **orbital data centers for truck stops as an airline loyalty program that is secretly the whole business.** Every part must matter.
+- Final deliverable: **PDF deck** and a pitch the three humans can deliver.
+- Goal: funny. Sharp, surprising, profane when useful, and willing to push boundaries.
+- GitHub is the source of truth. Update it after every completed substantive model run.
 
-1. Will Heltsley superhero image: comically overpowered advisor slide, effectively “we're good because we have Will as an advisor.” Name spelling verified on Starship's site. Image not yet generated.
-2. Starship as the supposedly perfect investor for this ridiculous company.
-3. More jokes about actual people in the room once the team supplies names and recognizable anecdotes.
+## Latest human input
 
-## Core comic mechanism
+- Need a **funny name and logo**.
+- Team suggestion relayed by Patrick: the fictional company should be a **YC Summer '26 batch company**. Incorporate this as a satirical credential; exact copy and visual execution remain open. This is not a claim of actual YC affiliation.
 
-Start with an overbuilt deep-tech solution to a profoundly minor truck-stop inconvenience. Introduce airline-style status as a feature. Reveal that status is the product and all the infrastructure is an elaborate excuse to sell points.
+## Original human ideas — possibilities
 
-Don't reveal the full joke in the opening slide. Make the audience briefly wonder whether this is an actual portfolio company.
+- Will Heltsley as an absurd superhero advisor, effectively “we're good because we have Will.” Patrick reports he is at the retreat.
+- A joke about Starship being the ideal investor.
+- Other jokes about people actually in the room.
+
+Public names and roles: RESEARCH.md. An advisor-list entry does not establish attendance.
+
+## Explicit rejection
+
+Patrick rejected the entire first deck and approach. Do not inherit its name, shower/taquito emphasis, tiers, reveal, slide count, black/lime design, or giant-text treatment. Do not merely polish those files. They remain historical.
+
+## Open
+
+Human lane owners, remaining time, pitch duration, selected premise, selected name/logo, room-specific anecdotes, final script. Work independently with labeled assumptions until the team checkpoint.

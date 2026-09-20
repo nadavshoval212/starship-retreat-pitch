@@ -1,3 +1,5 @@
+> REJECTED DECK. Patrick rejected this approach. These files are history, not templates. Find the replacement in work/03-visuals/STATUS.md.
+
 # Starter deck
 
 - `low-orbit-high-status.pdf`: eight slides, ready to present. Static visual backup.

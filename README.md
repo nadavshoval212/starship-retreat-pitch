@@ -1,35 +1,41 @@
-# LOW ORBIT, HIGH STATUS
+# Retreat pitch — team workspace
 
-**Working title. Team approval pending.**
+**The first deck and creative direction were rejected. Start fresh.** Old creative files remain as history, not guidance.
 
-An orbital data center for truck stops. An airline loyalty program. Somehow, the loyalty program is the entire business.
+Assigned prompt: **orbital data centers for truck stops as an airline loyalty program that is secretly the whole business.**
 
-> We put the cloud in space so a man buying a taquito in Ohio can feel better than another man buying a taquito in Ohio.
+Three humans, three computers, three models. GitHub is the source of truth.
 
-This is a fictional company for a joke pitch competition at the Starship Ventures retreat. Company claims, endorsements, financials, and dialogue in the creative drafts are parody, not factual representations of the people or organizations named.
+## Pick one lane and paste its prompt into your model
 
-## Start here
+| Computer | Job | Copy-paste prompt | Live handoff |
+| --- | --- | --- | --- |
+| 1 | Company premise, story, spoken pitch | [Story prompt](prompts/01-story.md) | [Story status](work/01-story/STATUS.md) |
+| 2 | Comedy room: room jokes, fake credentials, punch-up | [Comedy prompt](prompts/02-comedy.md) | [Comedy status](work/02-comedy/STATUS.md) |
+| 3 | Funny name, logo, visual identity, then final PDF | [Brand/deck prompt](prompts/03-visuals.md) | [Brand/deck status](work/03-visuals/STATUS.md) |
 
-- **[Open the eight-slide PDF](deck/low-orbit-high-status.pdf)**
-- **[Download the editable PowerPoint with speaker notes](deck/low-orbit-high-status.pptx)**
-- [The brief and Patrick's original ideas](BRIEF.md)
-- [Proposed three-person, one-hour sprint](TEAM-PLAN.md)
-- [Joke bank: candidates, not approved copy](JOKES.md)
-- [Verified room context and sources](RESEARCH.md)
-- [Proposed story and slide outline](STORY.md)
+Read [the brief](BRIEF.md), [decisions](coordination/DECISIONS.md), and [run rules](coordination/RUN-RULES.md) first. Each person claims their own STATUS.md.
 
-## Collaborate
+## Current team idea
 
-This repo is intended to be public so the team can open it immediately. Public access allows reading and proposing changes through forks/pull requests; direct editing requires a collaborator invitation from Patrick and acceptance by the recipient.
+**Fictional YC Summer '26 company.** Use the batch credential as a comedy device. Exact execution is open. A funny name and logo are a priority for the first checkpoint.
 
-Claim a lane in TEAM-PLAN.md. Keep story work in STORY.md, joke suggestions in JOKES.md, and eventual visuals in assets/. Put exported slides in deck/. Avoid simultaneously editing the same file.
+## First checkpoint
 
-**Nothing creative is locked yet:** title, roles, jokes, slide order, and art direction are proposals for the three-person team.
+Run all three prompts for roughly 10 minutes. Meet for 3 minutes: read the premises and best lines aloud, look at the names/logo concepts, and choose what works together. Computer 1 records human choices. Then build the full pitch.
 
-## Deck status
+## Every model run ends here
 
-The starter deck is ready in PDF and editable PowerPoint. The PowerPoint includes suggested dialogue and handoffs in speaker notes. The Will slide is currently typography; the superhero concept remains in the joke bank for team review.
+Save deliverables, add a short run note, update your own STATUS.md, and publish a commit or PR. Hand the others a link and a clear next action. An unmerged PR is pending, not the shared main version.
 
-**Team format: PDF.** Patrick chose PDF to keep the sprint moving. Use the PDF to review and present, and the editable PowerPoint for revisions. There is no Google Slides document to keep in sync.
+## Access
 
-Public GitHub readers can download the deck immediately. Add teammates as repository collaborators if they need to edit directly, or use forks and pull requests.
+This repo is public: everyone can read/download. Direct pushes need collaborator invitations from Patrick and acceptance by the other two GitHub users. Otherwise use forks and pull requests. No teammates have been invited yet.
+
+## Final presentation
+
+**PDF.** Computer 3 owns assembly and exports. The current approved deck will be linked from its STATUS.md. There is no approved deck now.
+
+[Verified Starship context](RESEARCH.md). [Rejected first deck](deck/README.md). Old JOKES.md and STORY.md are rejected history.
+
+All company claims, credentials, endorsements, and dialogue in creative drafts are fictional comedy.
